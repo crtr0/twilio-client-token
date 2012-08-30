@@ -1,0 +1,20 @@
+{
+  "author": "Carter Rabasa <carter@rabasa.com> (http://carter.rabasa.com)",
+  "name": "twilio-client-token",
+  "description": "Create Twilio Client capability token for Node.js apps",
+  "version": "0.0.1",
+  "homepage": "https://github.com/crabasa/twilio-client-token",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crabasa/twilio-client-token.git"
+  },
+  "engines": {
+    "node": ">0.6.10"
+  },
+  "dependencies": {
+    "jwt-simple": "0.1.0",
+    "querystring" : "0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
